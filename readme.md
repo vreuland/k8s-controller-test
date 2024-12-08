@@ -1,0 +1,1 @@
+Based on https://github.com/Danny-de-bree/fullstaq-operator/blob/main/service-account.yaml
